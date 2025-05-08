@@ -8,12 +8,18 @@
 #### pulgas
 
 #Codigo para hacerlo
+
 git status (estado del clon)
+
 **hacer los cambios en el archivo**
+
 git add .
+
 git commit -m "Descripción de los cambios que has realizado"
+
 git push origin main 
 
+git push origin main2 (para subirlo a otra rama)
 --------------------------------------------------------
 
 # NUEVA TAREA.
